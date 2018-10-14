@@ -1,5 +1,7 @@
 import { getCleanData } from '../../scraper/utils';
 
+const noDoubleSpaces = text => text.replace(/  /g, ' ');
+
 export default function scrapeFunction(jsDom) {
   const [siteTitle, headerRow, ...playerRows] = jsDom.getElementsByTagName('tr');
   const [nameLabel, ...voices] = Array.from(headerRow.children).map(getCleanData);
@@ -12,12 +14,16 @@ export default function scrapeFunction(jsDom) {
       const cleanValue = getCleanData(setupCell);
       if (cleanValue && cleanValue.length) {
         const [mouthpiece, reed] = cleanValue.split(',');
-        setups.push({ mouthpiece, reed, voice: voiceIndexes[index] });
+        setups.push({
+          mouthpiece: mouthpiece && noDoubleSpaces(mouthpiece),
+          reed: reed && noDoubleSpaces(reed),
+          voice: voiceIndexes[index] && noDoubleSpaces(voiceIndexes[index])
+        });
       }
     });
 
     return {
-      name: getCleanData(name),
+      name: noDoubleSpaces(getCleanData(name)),
       setups
     };
   });
