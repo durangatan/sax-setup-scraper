@@ -6,7 +6,7 @@ import writeToJson from '../writer';
 // takes a config and runs with it!
 
 export default function runner({ sourceUrl, scrapeFunction, outputFile }) {
-  getJSDOM(sourceUrl)
+  return getJSDOM(sourceUrl)
     .then(jsDom => scraper(jsDom, scrapeFunction))
     .then(({ allPropertyNames, players }) => writeToJson({ allPropertyNames, players, sourceUrl }, outputFile))
     .catch(console.err);
