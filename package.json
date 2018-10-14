@@ -1,20 +1,21 @@
 {
-	"name": "sax-setup-scraper",
-	"version": "1.0.0",
-	"description": "Web scraping tool to get sax setups",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"lol tests\" && exit 1",
-		"start": "babel-node index.js --presets env"
-	},
-	"author": "durangatan",
-	"license": "ISC",
-	"dependencies": {
-		"babel-preset-env": "^1.7.0",
-		"isomorphic-fetch": "^2.2.1",
-		"jsdom": "^12.2.0",
-		"lodash.uniq": "^4.5.0",
-		"striptags": "^3.1.1",
-		"yargs": "^12.0.2"
-	}
+  "name": "sax-setup-scraper",
+  "version": "1.0.0",
+  "description": "Web scraping tool to get sax setups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"lol tests\" && exit 1",
+    "start": "babel-node index.js --presets env",
+    "merge-setups": "babel-node merge-setups.js --presets env"
+  },
+  "author": "durangatan",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "isomorphic-fetch": "^2.2.1",
+    "jsdom": "^12.2.0",
+    "lodash.uniq": "^4.5.0",
+    "striptags": "^3.1.1",
+    "yargs": "^12.0.2"
+  }
 }
