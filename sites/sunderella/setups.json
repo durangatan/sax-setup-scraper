@@ -1,0 +1,580 @@
+{
+  "allPropertyNames": [
+    "misc"
+  ],
+  "players": [
+    {
+      "name": "Gerald Albright",
+      "setups": [
+        {
+          "misc": "Soprano Saxophone Dukoff 7��"
+        }
+      ]
+    },
+    {
+      "name": "Gary Bartz",
+      "setups": [
+        {
+          "misc": "Selmer Superaction 80 Series II Soprano Saxophone Ebonite Yanagisawa 7 Hemke 3.5"
+        },
+        {
+          "misc": "Selmer Superaction 80 Series II Alto Saxophone Ebonite Yanagisawa 7 Hemke 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Jay Beckenstein",
+      "setups": [
+        {
+          "misc": "Yamaha Custom 875 Alto Saxophone������"
+        }
+      ]
+    },
+    {
+      "name": "Bob Berg",
+      "setups": [
+        {
+          "misc": "Selmer Tenor Saxophone (Mark VI) Handmade Metal mouthpiece by François Louis Rico Select or Medium Lavoz"
+        }
+      ]
+    },
+    {
+      "name": "Jerry Bergonzi",
+      "setups": [
+        {
+          "misc": "Selmer Tenor Saxophone Hard Rubber Otto Link Rico Reeds"
+        }
+      ]
+    },
+    {
+      "name": "Frank Branch",
+      "setups": [
+        {
+          "misc": "Selmer SA80II Black Lacquered Soprano Saxophone Lawton 7* (Rovner 7) Lavoz MH, Hemke 3"
+        },
+        {
+          "misc": "Selmer Mark VI Alto Saxophone (77,000) Lawton 7*B (Rovner 7) Lavoz MH"
+        }
+      ]
+    },
+    {
+      "name": "Michael Brecker",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone (86,000) Guardala Brecker Model Guardala #2"
+        }
+      ]
+    },
+    {
+      "name": "Adderly Cannonball",
+      "setups": [
+        {
+          "misc": "Alto Saxophone, King Super 20 New York Meyer 5 Rico #2 and La Voz Medium"
+        }
+      ]
+    },
+    {
+      "name": "Steve Carmichael",
+      "setups": [
+        {
+          "misc": "Yanagisawa Sterling Silver Soprano Selmer Soloist F Rico Jazz Select 3S"
+        },
+        {
+          "misc": "Alto Keilwerth SX90R Alto Keilwerth SX90R Barone New York 8M Rico Jazz Select 3S"
+        },
+        {
+          "misc": "Selmer Mark VI Tenor #114K or Keilwerth SX90R Tenor Florida otto link 8 on tenor/alto Rico Jazz Select 3S"
+        }
+      ]
+    },
+    {
+      "name": "Benny Carter",
+      "setups": [
+        {
+          "misc": "Alto Saxophone 1964 Selmer Mark VI Arnold Brilhart Ebolin Rico, Buffet and SPI"
+        }
+      ]
+    },
+    {
+      "name": "James Carter",
+      "setups": [
+        {
+          "misc": "Yamaha Custom Soprano Saxophone Geoff Lawton Rico Plasticover"
+        },
+        {
+          "misc": "Yamaha Custom Alto Saxophone Geoff Lawton Rico Plasticover"
+        },
+        {
+          "misc": "Yamaha Custom Tenor Saxophone Geoff Lawton Rico Plasticover"
+        },
+        {
+          "misc": "Yamaha Custom Baritone Saxophone Geoff Lawton Rico Plasticover"
+        }
+      ]
+    },
+    {
+      "name": "George Coleman",
+      "setups": [
+        {
+          "misc": "Yamaha Soprano Saxophone Vandoren Rico Royal 3 1/2"
+        },
+        {
+          "misc": "Selmer Mark VI Alto Saxophone Meyer 5 or Bilger Morgan 6 Rico Royal 3 1/2"
+        },
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Otto Link 7* Rico Royal 3 1/2 or 4"
+        }
+      ]
+    },
+    {
+      "name": "Hank Crawford",
+      "setups": [
+        {
+          "misc": "Selmer Superaction 80 Series II Alto Saxophone Barrett Stock LaVoz Medium"
+        }
+      ]
+    },
+    {
+      "name": "Pete Cristleib",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Berg Larsen Metal 130/0 2.5 Plasticover Reeds"
+        }
+      ]
+    },
+    {
+      "name": "Paquito D Rivera",
+      "setups": [
+        {
+          "misc": "Haynes Closed Hole Flute������"
+        },
+        {
+          "misc": "Yamaha Soprano Saxophone Otto Link #6 Rico #3"
+        },
+        {
+          "misc": "Selmer Balanced Action Alto Saxophone (1957) Metal Selmer F Rico #3"
+        },
+        {
+          "misc": "Selmer Centered Tone Bb Clarinet RIA Crystal #2M Rico #3 or Vandoren #3"
+        }
+      ]
+    },
+    {
+      "name": "Eddie Daniels",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Otto Link Rico"
+        }
+      ]
+    },
+    {
+      "name": "Paul Desmond",
+      "setups": [
+        {
+          "misc": "Selmer Alto Saxophone Gregory Hollywood 4A.18 Rico #3"
+        }
+      ]
+    },
+    {
+      "name": "Lou Donaldson",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Alto Saxophone (1948) Meyer Rico 2"
+        }
+      ]
+    },
+    {
+      "name": "Richard Elliott",
+      "setups": [
+        {
+          "misc": "LASax 80 Tenor Saxophone Strathon 7* Rico"
+        }
+      ]
+    },
+    {
+      "name": "Bill Evans",
+      "setups": [
+        {
+          "misc": "Selmer Soprano Saxophone Dukoff 9 Vandoren"
+        },
+        {
+          "misc": "Selmer Tenor Saxophone Guardala Vandoren"
+        }
+      ]
+    },
+    {
+      "name": "Kenny G. (Gorelick)",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Soprano Saxophone Dukoff D-8 Hemke 2 1/2"
+        },
+        {
+          "misc": "Selmer Mark VI Alto Saxophone Beechler S5S Hemke 2 1/2"
+        },
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone RIA Metal #8 Hemke 2 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Kenny Garrett",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Alto Saxophone Selmer Vandoren #3"
+        },
+        {
+          "misc": "Selmer Mark VI #140,000 Alto Selmer Soloist Short Shank- E, with Vintage Brilhart Ligature Hemke #3"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Giuffre",
+      "setups": [
+        {
+          "misc": "Soprano Saxophone Cal Opperman��"
+        },
+        {
+          "misc": "Tenor Saxophone Metal Berg, then RIA With #5 worked down reed"
+        },
+        {
+          "misc": "Bb Clarinet Cal Opperman����"
+        }
+      ]
+    },
+    {
+      "name": "Dexter Gordon",
+      "setups": [
+        {
+          "misc": "Soprano Saxophone Metal Selmer C* Rico Select or Medium Lavoz"
+        },
+        {
+          "misc": "Tenor Saxophone Dukoff BD Hollywood 1960's, Florida Metal Otto Link 1970's through 80's����"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Griffin",
+      "setups": [
+        {
+          "misc": "Selmer Superaction 80 Series II Tenor Saxophone Super Tone Master Otto Link LaVoz Medium Soft"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Heath",
+      "setups": [
+        {
+          "misc": "Selmer Soprano Saxophone Selmer D Marca"
+        },
+        {
+          "misc": "Selmer Tenor Saxophone Ron Coelho 105 Hard Rubber Vandoren Reeds"
+        }
+      ]
+    },
+    {
+      "name": "Joe Henderson",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone (56,923) Selmer Soloist Short Shank D LaVoz Medium Soft"
+        }
+      ]
+    },
+    {
+      "name": "Ron Holloway",
+      "setups": [
+        {
+          "misc": "Keilwerth SX90R Tenor Saxophone- Black Nickel Finish Custom Lawton 12 Star mouthpiece, by Geoff Lawton Vandoren V-16 Reeds, #3.5"
+        }
+      ]
+    },
+    {
+      "name": "Plas Johnson",
+      "setups": [
+        {
+          "misc": "Tenor Saxophone .166 Berg Larsen #2 Baritone Plasticover reed"
+        },
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Berg Larsen metal 160/2 Rico Plasticover 1 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Eric Kloss",
+      "setups": [
+        {
+          "misc": "King Zephyr Rico Royal Metallite Rico 3"
+        }
+      ]
+    },
+    {
+      "name": "Lee Konitz",
+      "setups": [
+        {
+          "misc": "Selmer Alto Saxophone Vandoren A55 Jumbo Java Vandoren"
+        }
+      ]
+    },
+    {
+      "name": "Dave Koz",
+      "setups": [
+        {
+          "misc": "Conn Curved Soprano Saxophone (vintage -made in 1914) Couf Hard Rubber #8 Rico Plasticover #3"
+        },
+        {
+          "misc": "Yamaha YSS-62 Silverplated Straight Soprano Couf Hard Rubber #8 Rico Plasticover #3"
+        },
+        {
+          "misc": "Yamaha YAS-62 Silverplated Alto Saxophone Beechler Metal #7 Rico Plasticover #4"
+        },
+        {
+          "misc": "Selmer Mark VI (1963) Tenor Saxophone Berg-Larsen Hard Rubber #90/2 Rico Plasticover #3 1/2"
+        },
+        {
+          "misc": "Yamaha YTS-62 Silverplated Tenor Saxophone Berg-Larsen Hard Rubber #90/2 Rico Plasticover #3 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Steve Lacy",
+      "setups": [
+        {
+          "misc": "Selmer Super Action Soprano Otto Link #12 Marca 1 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Hubert Laws",
+      "setups": [
+        {
+          "misc": "14K Gold Muramatsu Flute������"
+        }
+      ]
+    },
+    {
+      "name": "Joe Lovano",
+      "setups": [
+        {
+          "misc": "Selmer Balanced Action Tenor Saxophone Francois Louis custom wooden mouthpiece Alexander Superial \"DC\" #3 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Eric Marienthal",
+      "setups": [
+        {
+          "misc": "Yamaha YSS-62 Soprano Saxophone Gold Bari #7 Vandoren #3"
+        },
+        {
+          "misc": "Selmer Mark VI Alto Saxophone Metal Beechler #7 Vandoren #3"
+        }
+      ]
+    },
+    {
+      "name": "Bob Mintzer",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Freddie Gregory 7* Rico #3 1/2 or RKM Reeds"
+        }
+      ]
+    },
+    {
+      "name": "Lanny Morgan",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Freddie Gregory 7* Rico #3 1/2 or RKM Reeds"
+        }
+      ]
+    },
+    {
+      "name": "Gerry Mulligan",
+      "setups": [
+        {
+          "misc": "Goldplated Conn #M189k, or silver-plated Conn #226k Baritone Saxophone Gale Hollywood 5M��"
+        }
+      ]
+    },
+    {
+      "name": "Charlie Parker",
+      "setups": [
+        {
+          "misc": "King Super 20 Alto Saxophone brilhart Ebolin Rico"
+        },
+        {
+          "misc": "Grafton Plastic Alto Saxophone brilhart Ebolin Rico"
+        },
+        {
+          "misc": "Conn 6M Alto Saxophone brilhart Tonalin Rico"
+        }
+      ]
+    },
+    {
+      "name": "Tim Price",
+      "setups": [
+        {
+          "misc": "King Saxello Lamberson wood Vandoren 3"
+        },
+        {
+          "misc": "Selmer Series 3 Soprano Saxophone Lamberson wood 6m 3 1/2 Alexander or Marca"
+        },
+        {
+          "misc": "Selmer Series 3 Soprano Saxophone Lamberson wood 6m 3 1/2 Alexander or Marca"
+        },
+        {
+          "misc": "Selmer gold plated Alto Saxophone Lamberson wood #6 Rico Select Jazz (S) #3"
+        },
+        {
+          "misc": "Keilwerth straight Alto Saxophone Lamberson 6dd wood Vandoren 3"
+        },
+        {
+          "misc": "Selmer Balanced Action Tenor Saxophone Lamberson L7 wood Rico Jazz #3, Rico Jazz Select #3, or Vandoren V16 #3"
+        },
+        {
+          "misc": "Selmer Baritone Saxophone (Low Bb) Lamberson 7dd hard rubber Rico Jazz 3 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Nelson Rangell",
+      "setups": [
+        {
+          "misc": "Yamaha YSS-62 Soprano Saxophone Couf 8* Vandoren #2 1/2"
+        },
+        {
+          "misc": "Yamaha YAS-62 Alto Saxophone ARB 6* Vandoren Java #2 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Joshua Redman",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Soprano Saxophone Selmer Soloist Hard Rubber G Vandoren"
+        },
+        {
+          "misc": "Selmer Balanced Action Alto Saxophone Meyer New York USA 6 Hard Rubber Vandoren"
+        },
+        {
+          "misc": "Selmer Relacquered Super Balanced Action Tenor Saxophone (48,000) Florida Super Power Chamber 7*, or a Florida Otto LInk 7* Hard Rubber Vandoren"
+        }
+      ]
+    },
+    {
+      "name": "Sonny Rollins",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI (130K) Tenor Saxophone Berg Larsen 130/2 LaVoz Medium"
+        }
+      ]
+    },
+    {
+      "name": "David Sanborn",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Alto Saxophone Bobby Dukoff D8 Super Power Chamber LaVoz medium"
+        }
+      ]
+    },
+    {
+      "name": "Eric Spaulding",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI tenor, 86,000 Phil Barone Hollywood Custom mouthpiece, Solid Silver, #8 Rico Jazz 2.5, or LaVoz Medium"
+        }
+      ]
+    },
+    {
+      "name": "John Stubblefield",
+      "setups": [
+        {
+          "misc": "Pearl Flute������"
+        },
+        {
+          "misc": "Selmer Model H Soprano Saxophone Selmer 3 1/2 Queen Reeds"
+        },
+        {
+          "misc": "Selmer Mark VI Tenor Saxophone Phil Barone Custom mouthpiece 2 1/2 Vandoren"
+        },
+        {
+          "misc": "Selmer Omega Bb Clarinet Vandoren Jazz����"
+        }
+      ]
+    },
+    {
+      "name": "Stanley Turrentine",
+      "setups": [
+        {
+          "misc": "Black Lacquered Selmer Super Action 80 Tenor Saxophone Tone Master New York Otto Link #8 Hemke #3 or #3 1/2"
+        }
+      ]
+    },
+    {
+      "name": "Tim Warfield",
+      "setups": [
+        {
+          "misc": "Relaquered 200K Selmer MarkVI Tenor Super Tone Master Florida Otto Link 7*��"
+        }
+      ]
+    },
+    {
+      "name": "Grover Washington Jr.",
+      "setups": [
+        {
+          "misc": "H. Couf Black Nickel Soprano Saxophone Runyon #8 hard rubber Rico Royal #5 reed"
+        },
+        {
+          "misc": "Keilwerth Black Nickel SX90R Alto Saxophone Meyer 7M NewYork USA hard rubber Rico Royal #5 reed"
+        },
+        {
+          "misc": "Couf Gold Plated Tenor Saxophone Berg Larsen 130/0 Hard Rubber Rico Royal #5 reed"
+        }
+      ]
+    },
+    {
+      "name": "Ernie Watts",
+      "setups": [
+        {
+          "misc": "Keilworth SX90R Tenor Saxophone Florida Otto Link (modified by Phil Barone) .160 opening Soft Fibracane or Bari"
+        }
+      ]
+    },
+    {
+      "name": "Ben Webster",
+      "setups": [
+        {
+          "misc": "Selmer Balanced Action Tenor Saxophone Master Link, New York Otto Link��"
+        }
+      ]
+    },
+    {
+      "name": "Kirk Whalum",
+      "setups": [
+        {
+          "misc": "Yamaha YSS-875 Soprano Saxophone Guardala Silver Mike Brecker model Guardala #4"
+        },
+        {
+          "misc": "Keilwerth Black Nickel SX90R Tenor Saxophone Guardala Silver Mike Brecker model Guardala #4"
+        }
+      ]
+    },
+    {
+      "name": "Paul Winter",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI soprano saxophone Selmer D mouthpiece Winslow ligature, and Vandoren number 4 reeds"
+        }
+      ]
+    },
+    {
+      "name": "Phil Woods",
+      "setups": [
+        {
+          "misc": "Selmer Mark VI Alto Saxophone (82,000) Old New York Meyer 5 Vandoren V16"
+        },
+        {
+          "misc": "Selmer Mark VI Alto Sax Meyer New York USA 5 Hard Rubber����"
+        }
+      ]
+    }
+  ],
+  "sourceUrl": "http://www.sunderella.zc.bz/bbs/skin/ggambo7002_board/print.php?id=qna&no=39"
+}
