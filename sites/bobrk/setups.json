@@ -1,0 +1,380 @@
+{
+  "allPropertyNames": ["saxophone", "mouthpiece", "reeds"],
+  "players": [
+    {
+      "name": "Joe Henderson",
+      "setups": [
+        {
+          "saxophone": "56,xxx Mark VI",
+          "mouthpiece": "Selmer Soloist mthpc",
+          "reeds": "LaVoz reeds"
+        }
+      ]
+    },
+    {
+      "name": "Sonny Rollins",
+      "setups": [
+        {
+          "saxophone": "14x,xxx MkVI",
+          "mouthpiece": "Wolfe Tayne or Guy Hawkins metal mp",
+          "reeds": "LaVoz"
+        },
+        {
+          "reeds": "La Voz Tenor med. and Hemke ten. 2"
+        }
+      ]
+    },
+    {
+      "name": "James Moody",
+      "setups": [
+        {
+          "saxophone": "Keilwerth Black Gold SX90R",
+          "mouthpiece": "Brendan Tibbs mp"
+        }
+      ]
+    },
+    {
+      "name": "Michael Brecker",
+      "setups": [
+        {
+          "saxophone": "8x,xxx MkVI",
+          "mouthpiece": "Guardala (Brecker mdl) mp",
+          "reeds": "Guardala reeds"
+        }
+      ]
+    },
+    {
+      "name": "Joshua Redman",
+      "setups": [
+        {
+          "saxophone": "48,xxx Super Balanced Action",
+          "mouthpiece": "Otto Link metal 8*",
+          "reeds": "Java"
+        }
+      ]
+    },
+    {
+      "name": "David Sanchez",
+      "setups": [
+        {
+          "saxophone": "MkVI",
+          "mouthpiece": "Otto Link metal 7",
+          "reeds": "Vandoren"
+        }
+      ]
+    },
+    {
+      "name": "Ernie Watts",
+      "setups": [
+        {
+          "saxophone": "Keilwerth BG SX90R",
+          "mouthpiece": "Otto Link metal 10*"
+        }
+      ]
+    },
+    {
+      "name": "Craig Handy",
+      "setups": [
+        {
+          "saxophone": "MkVI",
+          "mouthpiece": "Vandoren V16 mp"
+        }
+      ]
+    },
+    {
+      "name": "Branford Marsalis",
+      "setups": [
+        {
+          "saxophone": "Guardala Black Nickel",
+          "mouthpiece": "Guardala mp",
+          "reeds": "Guardala reeds"
+        }
+      ]
+    },
+    {
+      "name": "Jerry Bergonzi",
+      "setups": [
+        {
+          "saxophone": "Super Balanced Action",
+          "mouthpiece": "Otto Link metal"
+        },
+        {
+          "reeds": "Rico Tenor 3.5, soprano 3 and 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Stanley Turrentine",
+      "setups": [
+        {
+          "saxophone": "Keilwerth BG",
+          "mouthpiece": "Otto Link metal",
+          "reeds": "LaVoz"
+        }
+      ]
+    },
+    {
+      "name": "Don Braden",
+      "setups": [
+        {
+          "saxophone": "Super Balanced Action",
+          "mouthpiece": "Lawton metal"
+        }
+      ]
+    },
+    {
+      "name": "Kenny Garrett",
+      "setups": [
+        {
+          "saxophone": "14x,xxx MkVI",
+          "mouthpiece": "Selmer Soloist mp",
+          "reeds": "Hemke"
+        }
+      ]
+    },
+    {
+      "name": "Gary Bartz",
+      "setups": [
+        {
+          "saxophone": "Super Action 80 II",
+          "mouthpiece": "Yanagisawa hard rubber",
+          "reeds": "Hemke"
+        }
+      ]
+    },
+    {
+      "name": "Frank Morgan",
+      "setups": [
+        {
+          "saxophone": "SA80II",
+          "mouthpiece": "Selmer S80"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Herring",
+      "setups": [
+        {
+          "saxophone": "Yanagisawa"
+        }
+      ]
+    },
+    {
+      "name": "Tom Scott",
+      "setups": [
+        {
+          "saxophone": "Guardala BN",
+          "mouthpiece": "Guardala mp",
+          "reeds": "Guardala reeds"
+        }
+      ]
+    },
+    {
+      "name": "David Sanborn",
+      "setups": [
+        {
+          "saxophone": "MkVI",
+          "mouthpiece": "David Sanborn mp",
+          "reeds": "LaVoz"
+        }
+      ]
+    },
+    {
+      "name": "Antonio Hart",
+      "setups": [
+        {
+          "saxophone": "King Super 20"
+        }
+      ]
+    },
+    {
+      "name": "Wess Anderson",
+      "setups": [
+        {
+          "saxophone": "SA80II black lacquer"
+        }
+      ]
+    },
+    {
+      "name": "Jackie McLean",
+      "setups": [
+        {
+          "saxophone": "MkVI",
+          "mouthpiece": "Berg Larsen hard rubber"
+        }
+      ]
+    },
+    {
+      "name": "Greg Osby",
+      "setups": [
+        {
+          "saxophone": "Yanagisawa (silver body brass keys)",
+          "mouthpiece": "Vandoren A45 Classique mouthpiece"
+        }
+      ]
+    },
+    {
+      "name": "Steve Coleman",
+      "setups": [
+        {
+          "saxophone": "MkVII"
+        }
+      ]
+    },
+    {
+      "name": "Bobby Watson",
+      "setups": [
+        {
+          "saxophone": "Yamaha Custom",
+          "mouthpiece": "Vandoren V5 mp",
+          "reeds": "Vandoren"
+        }
+      ]
+    },
+    {
+      "name": "Mike Smith",
+      "setups": [
+        {
+          "saxophone": "Keilwerth BG SX90R"
+        }
+      ]
+    },
+    {
+      "name": "Bill Bergman",
+      "setups": [
+        {
+          "reeds": "La Voz Tenor medium"
+        }
+      ]
+    },
+    {
+      "name": "Ron Blake",
+      "setups": [
+        {
+          "reeds": "Hemke Tenor 4.5 and soprano 4"
+        }
+      ]
+    },
+    {
+      "name": "Buddy Collette",
+      "setups": [
+        {
+          "reeds": "Rico Royal alto, soprano and tenor 2.5"
+        }
+      ]
+    },
+    {
+      "name": "Ronnie Cuber",
+      "setups": [
+        {
+          "reeds": "Rico Baritone 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Jay Davidson",
+      "setups": [
+        {
+          "reeds": "Plasticover tenor 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Candy Dulfer",
+      "setups": [
+        {
+          "reeds": "La Voz alto medium"
+        }
+      ]
+    },
+    {
+      "name": "Hans Dulfer",
+      "setups": [
+        {
+          "reeds": "Rico Royal tenor 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Chico Freeman",
+      "setups": [
+        {
+          "reeds": "Rico/Royal tenor 3, La Voz med and hard alto"
+        }
+      ]
+    },
+    {
+      "name": "Kenny G",
+      "setups": [
+        {
+          "reeds": "Hemke Soprano 2.5, Tenor 2.5"
+        }
+      ]
+    },
+    {
+      "name": "Benny Golson",
+      "setups": [
+        {
+          "reeds": "La Voz Tenor hard"
+        }
+      ]
+    },
+    {
+      "name": "Everette Harp",
+      "setups": [
+        {
+          "reeds": "La Voz soprano, alto and tenor medium hard"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Kashiwa",
+      "setups": [
+        {
+          "reeds": "La Voz alto and tenor medium, Hemke sop 3 and ten 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Dave Koz",
+      "setups": [
+        {
+          "reeds": "Plasticover alto 4, tenor 3.5, sop. 3.5"
+        }
+      ]
+    },
+    {
+      "name": "Ronnie Laws",
+      "setups": [
+        {
+          "reeds": "La Voz alto, sop and ten (hard) Hemke tenor and sop 5"
+        }
+      ]
+    },
+    {
+      "name": "Dave Sanborn",
+      "setups": [
+        {
+          "reeds": "La Voz alto medium"
+        }
+      ]
+    },
+    {
+      "name": "Bud Shank",
+      "setups": [
+        {
+          "reeds": "Rico alto 2"
+        }
+      ]
+    },
+    {
+      "name": "Lew Tabackin",
+      "setups": [
+        {
+          "reeds": "Hemke tenor 4"
+        }
+      ]
+    }
+  ],
+  "sourceUrl": "http://www.bobrk.com/saxfaq/2.18.html"
+}
