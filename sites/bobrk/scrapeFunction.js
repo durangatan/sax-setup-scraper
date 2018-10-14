@@ -1,13 +1,4 @@
-import { getCleanData } from '../../scraper/utils';
-
-const addToPlayerIfExists = (name, setup, playerSetups) => {
-  const existingPlayer = playerSetups.find(playerSetup => playerSetup.name === name);
-  if (existingPlayer) {
-    existingPlayer.setups.push(setup);
-  } else {
-    playerSetups.push({ name, setups: [setup] });
-  }
-};
+import { getCleanData, addToPlayerIfExists } from '../../scraper/utils';
 
 export default function scrapeFunction(jsDoc) {
   const playerLis = jsDoc.getElementsByTagName('li');
