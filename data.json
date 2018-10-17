@@ -1,0 +1,5881 @@
+{
+  "players": [
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "other": "10*"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Medium Hard"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eddie \"Lockjaw\"",
+      "lastName": "Davis"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Hard Rubber"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "super action 80"
+            }
+          ]
+        }
+      ],
+      "firstName": "George",
+      "lastName": "Adams"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Gregory",
+              "tipOpening": "4"
+            },
+            {
+              "make": "Gregory",
+              "tipOpening": "5"
+            },
+            {
+              "make": "Meyer",
+              "model": "New York",
+              "tipOpening": "5"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "2"
+            },
+            {
+              "strength": "Medium",
+              "make": "la voz"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Cannonball",
+      "lastName": "Adderley"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "model": "D7",
+              "material": "Silverite"
+            }
+          ]
+        }
+      ],
+      "firstName": "Gerald",
+      "lastName": "Albright"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Reso Chamber joe allard model"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ]
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Allard"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "Ebolin",
+              "tipOpening": "4*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn-Selmer",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Gene",
+      "lastName": "Ammons"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II",
+              "finish": "black lacquer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Wess",
+      "lastName": "Anderson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "material": "Metal",
+              "tipOpening": "2.18 m - 0.86 \""
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "other": "long bell"
+            }
+          ]
+        }
+      ],
+      "firstName": "Harold",
+      "lastName": "Ashby"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "master link",
+              "other": "ga facing 2.03 mm - 0,80 \""
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "super"
+            }
+          ]
+        }
+      ],
+      "firstName": "Georgie",
+      "lastName": "Auld"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "tipOpening": "9*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "super action 80 series ii"
+            },
+            {
+              "make": "Selmer",
+              "model": "super action 80 series iii"
+            }
+          ]
+        }
+      ],
+      "firstName": "Gerard",
+      "lastName": "Badini"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "tipOpening": "5*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Barnet"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Yanagisawa",
+              "material": "Hard Rubber",
+              "tipOpening": "7"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Yanagisawa",
+              "material": "Hard Rubber",
+              "tipOpening": "7"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II"
+            }
+          ]
+        }
+      ],
+      "firstName": "Gary",
+      "lastName": "Bartz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "Custom 875"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jay",
+      "lastName": "Beckenstein"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "Ebolin",
+              "material": "Hard Rubber",
+              "tipOpening": "2*"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Soft"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Martin",
+              "model": "Committee I"
+            },
+            {
+              "make": "Martin",
+              "model": "Committee II"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tex",
+      "lastName": "Beneke"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Hard Rubber",
+              "tipOpening": "7"
+            },
+            {
+              "make": "François Louis",
+              "material": "Metal",
+              "other": "handmade"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            },
+            {
+              "make": "Rico",
+              "model": "Jazz Select"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "balanced action"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "material": "Metal",
+              "tipOpening": "g"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Berg"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bill",
+      "lastName": "Bergman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal"
+            },
+            {
+              "make": "otto link",
+              "material": "Hard Rubber",
+              "tipOpening": "6"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            },
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jerry",
+      "lastName": "Bergonzi"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "tipOpening": "5*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Conn",
+              "strength": "3",
+              "other": "cg  special"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "New Wonder Transitional",
+              "finish": "gold plated"
+            }
+          ]
+        }
+      ],
+      "firstName": "Chu",
+      "lastName": "Berry"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master florida usa",
+              "tipOpening": "9*"
+            }
+          ],
+          "saxophones": [
+            {
+              "other": "jupiter xo"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sylvain",
+      "lastName": "Beuf"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Reso Chamber",
+              "tipOpening": "7*",
+              "other": "refaced"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "other": "super"
+            }
+          ]
+        }
+      ],
+      "firstName": "Seamus",
+      "lastName": "Blake"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "4.5"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "4"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ron",
+      "lastName": "Blake"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal",
+              "tipOpening": "95/1"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz"
+            }
+          ]
+        }
+      ],
+      "firstName": "Arthur",
+      "lastName": "Blythe"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "material": "Metal"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "4"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "tipOpening": "7"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            }
+          ]
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Braden"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Medium Hard",
+              "make": "La Voz"
+            },
+            {
+              "make": "Hemke",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II",
+              "finish": "black lacquer"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "tipOpening": "7*b"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Medium hard",
+              "other": "La Voz"
+            },
+            {
+              "make": "Hemke",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "77xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Frank",
+      "lastName": "Branch"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "guardala",
+              "model": "michael brecker"
+            },
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "material": "Metal",
+              "other": "refaced"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "2",
+              "make": "guardala"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "86,xxx"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "guardala",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz"
+            }
+          ]
+        }
+      ],
+      "firstName": "Michael",
+      "lastName": "Brecker"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Runyon",
+              "model": "bionix",
+              "tipOpening": "8*"
+            }
+          ]
+        }
+      ],
+      "firstName": "Nick",
+      "lastName": "Brignola"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "stainless steel",
+              "model": "slant signature charlie ventura model",
+              "tipOpening": "110 / 2",
+              "other": "long table"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sam",
+      "lastName": "Butera"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "tipOpening": "8*",
+              "other": "refaced by otto link with pre-1949 otto link measurements."
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Byas"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Hard Rubber",
+              "tipOpening": "90 / 1"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ace",
+      "lastName": "Cannon"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "tipOpening": "f"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "3S"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yanagisawa",
+              "material": "sterling silver"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "phil barone",
+              "model": "New York",
+              "tipOpening": "8m"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "3s"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "model": "New York",
+              "make": "phil barone",
+              "tipOpening": "8m"
+            },
+            {
+              "make": "otto link",
+              "model": "florida",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "3s"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "114xxx"
+            },
+            {
+              "make": "Keilwerth",
+              "model": "SX90R"
+            }
+          ]
+        }
+      ],
+      "firstName": "Steve",
+      "lastName": "Carmichael"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "material": "Metal",
+              "tipOpening": "7bb"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "custom"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "material": "Metal",
+              "tipOpening": "7bb"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "material": "Metal",
+              "tipOpening": "7bb"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "custom"
+            }
+          ]
+        },
+        {
+          "voice": "Baritone",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "material": "Metal",
+              "tipOpening": "7bb"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "custom"
+            }
+          ]
+        }
+      ],
+      "firstName": "James",
+      "lastName": "Carter"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Brilhart",
+              "model": "Ebolin"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "year": "1964"
+            }
+          ]
+        }
+      ],
+      "firstName": "Benny",
+      "lastName": "Carter"
+    },
+    {
+      "setups": [
+        {
+          "saxophones": [
+            {
+              "make": "Dolnet"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eddie",
+      "lastName": "Chamblee"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "new vintage tone edge",
+              "tipOpening": "8*",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium hard"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Olivier",
+      "lastName": "Chaussade"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "7",
+              "model": "tone edge early babbitt ",
+              "other": "very long facing curve / low baffle"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action",
+              "other": "long bell"
+            }
+          ]
+        }
+      ],
+      "firstName": "Chris",
+      "lastName": "Cheek"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal",
+              "tipOpening": "130 / 0"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "2"
+            },
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "2.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Pete",
+      "lastName": "Christlieb"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Dolnet"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jean Claude",
+      "lastName": "Forenbach"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Rovner",
+              "material": "Metal",
+              "tipOpening": "d9"
+            },
+            {
+              "make": "Rovner",
+              "material": "Metal",
+              "tipOpening": "d10"
+            },
+            {
+              "make": "Rovner",
+              "material": "Metal",
+              "tipOpening": "d11"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover"
+            }
+          ]
+        }
+      ],
+      "firstName": "Clarence",
+      "lastName": "Clemons"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3",
+              "model": "Royal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Arnett",
+      "lastName": "Cobb"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "4"
+            }
+          ]
+        }
+      ],
+      "firstName": "Al",
+      "lastName": "Cohn"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Hard Rubber",
+              "tipOpening": "8"
+            }
+          ]
+        }
+      ],
+      "firstName": "Mark",
+      "lastName": "Colby"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VII"
+            }
+          ]
+        }
+      ],
+      "firstName": "Steve",
+      "lastName": "Coleman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Vandoren",
+              "model": "a25"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5",
+              "model": "royal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "tipOpening": "5"
+            },
+            {
+              "make": "Morgan",
+              "model": "bilger",
+              "tipOpening": "6"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Royal",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Royal",
+              "strength": "3.5"
+            },
+            {
+              "make": "Rico Royal",
+              "strength": "4"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "George",
+      "lastName": "Coleman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "reeds": [
+            {
+              "make": "Rico Royal",
+              "strength": "2.5"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "Rico Royal",
+              "strength": "2.5"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "Rico Royal",
+              "strength": "2.5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Buddy",
+      "lastName": "Collette"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "5*",
+              "model": "improved tone master",
+              "other": "refaced"
+            },
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "6*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "4"
+            },
+            {
+              "strength": "4",
+              "make": "chiron",
+              "model": "vibrator"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action",
+              "other": "long bell"
+            }
+          ]
+        }
+      ],
+      "firstName": "John",
+      "lastName": "Coltrane"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal",
+              "tipOpening": "115 / 0"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Dolnet"
+            }
+          ]
+        }
+      ],
+      "firstName": "Alix",
+      "lastName": "Combelle"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "other": "worked on by glenn johnston with small baffle and opened tip"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Cooper"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master hawkins special"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Corky",
+      "lastName": "Corcoran"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II"
+            }
+          ]
+        }
+      ],
+      "firstName": "Hank",
+      "lastName": "Crawford"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Baritone",
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ronnie",
+      "lastName": "Cuber"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "stainless steel"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "King",
+      "lastName": "Curtis"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "6"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "material": "Metal",
+              "tipOpening": "f"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "year": "1957"
+            }
+          ]
+        }
+      ],
+      "firstName": "Paquito",
+      "lastName": "D'Rivera"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eddie",
+      "lastName": "Daniels"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "3.5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jay",
+      "lastName": "Davidson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Pat",
+      "lastName": "Davis"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "other": "refaced by nicolas trefeil"
+            },
+            {
+              "make": "brilhart"
+            },
+            {
+              "make": "Selmer",
+              "model": "Soloist"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            },
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action"
+            },
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "François",
+      "lastName": "de Ribeaupierre"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Gregory",
+              "model": "hollywood",
+              "tipOpening": "4a-18m",
+              "material": "hard rubber"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            },
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Desmond"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "tipOpening": "5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sam",
+      "lastName": "Donahue"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "2"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "year": "1948"
+            }
+          ]
+        }
+      ],
+      "firstName": "Lou",
+      "lastName": "Donaldson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            }
+          ]
+        }
+      ],
+      "firstName": "Candy",
+      "lastName": "Dulfer"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5",
+              "model": "royal"
+            }
+          ]
+        }
+      ],
+      "firstName": "Hans",
+      "lastName": "Dulfer"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "model": "hollywood bd",
+              "make": "dukoff"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder transitionnal"
+            }
+          ]
+        }
+      ],
+      "firstName": "Allen",
+      "lastName": "Eager"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "strathon",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "LASax",
+              "model": "80"
+            }
+          ]
+        }
+      ],
+      "firstName": "Richard",
+      "lastName": "Elliott"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "master link"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Herschel",
+      "lastName": "Evans"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "guardala",
+              "model": "studio"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "tipOpening": "9"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bill",
+      "lastName": "Evans"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone edge",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action"
+            },
+            {
+              "make": "Conn",
+              "model": "New Wonder Transitional"
+            }
+          ]
+        }
+      ],
+      "firstName": "Robin",
+      "lastName": "Fincker"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "tipOpening": "10*"
+            },
+            {
+              "make": "Lawton",
+              "tipOpening": "10*b"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Yanigasawa",
+              "tipOpening": "5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Frank",
+      "lastName": "Foster"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "Buescher 400"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jean François",
+      "lastName": "Bonnel"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "New York Trump Reso Chamber Bud Freeman",
+              "tipOpening": "4"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M"
+            },
+            {
+              "model": "new wonder transitional",
+              "make": "Conn"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bud",
+      "lastName": "Freeman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "royal",
+              "strength": "3"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            },
+            {
+              "make": "La Voz",
+              "strength": "Hard"
+            }
+          ]
+        }
+      ],
+      "firstName": "Chico",
+      "lastName": "Freeman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "tipOpening": "e",
+              "other": "short shank"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3"
+            },
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "14x,xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Kenny",
+      "lastName": "Garrett"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal"
+            },
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "tipOpening": "4*"
+            },
+            {
+              "make": "otto link",
+              "tipOpening": "8*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "super"
+            },
+            {
+              "make": "Conn",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Stan",
+      "lastName": "Getz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano"
+        },
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "strength": "5",
+              "other": "filed down"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jimmy",
+      "lastName": "Giuffre"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "tipOpening": "10*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Hard"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Benny",
+      "lastName": "Golson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "year": "1936"
+            }
+          ]
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Gonsalves"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "four star",
+              "tipOpening": "4"
+            },
+            {
+              "make": "dukoff",
+              "model": "hollywood bd"
+            },
+            {
+              "make": "otto link",
+              "model": "Four Star hawkins special ",
+              "tipOpening": "6",
+              "other": "given by illinois jacquet"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M",
+              "other": "rolled tone holes"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "material": "Metal",
+              "tipOpening": "c*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "select"
+            },
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            }
+          ]
+        }
+      ],
+      "firstName": "Dexter",
+      "lastName": "Gordon"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "material": "Metal",
+              "tipOpening": "d8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "2.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "material": "Hard Rubber",
+              "make": "beechler",
+              "tipOpening": "s5s"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "Metal",
+              "make": "RIA",
+              "tipOpening": "5"
+            },
+            {
+              "material": "Metal",
+              "make": "RIA",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Kenny",
+      "lastName": "Gorlick"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Wardell",
+      "lastName": "Gray"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "model": "improved tone master"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Medium Soft",
+              "make": "La Voz"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II"
+            },
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Johnny",
+      "lastName": "Griffin"
+    },
+    {
+      "setups": [
+        {
+          "saxophones": [
+            {
+              "make": "Dolnet"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jimmy",
+      "lastName": "Hamilton"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "florida super tone master",
+              "tipOpening": "10*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Scott",
+      "lastName": "Hamilton"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Vandoren",
+              "model": "v16"
+            },
+            {
+              "make": "Berg Larsen",
+              "material": "Metal",
+              "tipOpening": "105 /1"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            },
+            {
+              "strength": "3",
+              "model": "v16",
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "78xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Craig",
+      "lastName": "Handy"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium Hard"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium Hard"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium Hard"
+            }
+          ]
+        }
+      ],
+      "firstName": "Everette",
+      "lastName": "Harp"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Antonio",
+      "lastName": "Hart"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "Hard Rubber"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn"
+            }
+          ]
+        }
+      ],
+      "firstName": "Coleman",
+      "lastName": "Hawkins"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master florida",
+              "tipOpening": "6*"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tubby",
+      "lastName": "Hayes"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "woodwind",
+              "material": "steel ebonite",
+              "model": "\"chester hazlett\" model"
+            }
+          ]
+        }
+      ],
+      "firstName": "Chester",
+      "lastName": "Hazlett"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master"
+            },
+            {
+              "material": "Hard Rubber",
+              "model": "ron coelho",
+              "tipOpening": "105"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10m"
+            },
+            {
+              "make": "Selmer"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "tipOpening": "d"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "marca"
+            },
+            {
+              "make": "Vandoren"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jimmy",
+      "lastName": "Heath"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "other": "short shank",
+              "tipOpening": "d/e"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Medium Soft",
+              "make": "la voz"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "56,923"
+            }
+          ]
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Henderson"
+    },
+    {
+      "setups": [
+        {
+          "saxophones": [
+            {
+              "make": "Yanagisawa"
+            }
+          ]
+        }
+      ],
+      "firstName": "Vincent",
+      "lastName": "Herring"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "tipOpening": "12*",
+              "other": "custom mouthpiece by geoff lawton"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3.5",
+              "model": "V16"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R",
+              "finish": "black nickel"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ron",
+      "lastName": "Holloway"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "material": "Metal",
+              "tipOpening": "d"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jane Ira",
+      "lastName": "Bloom"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            },
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "year": "1940"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "30m connqueror"
+            }
+          ]
+        }
+      ],
+      "firstName": "Illinois",
+      "lastName": "Jacquet"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "other": "short shank"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bobby",
+      "lastName": "Jaspar"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "other": "tone master",
+              "tipOpening": "5"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "other": "\"v\" cut"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jerry",
+      "lastName": "Jerome"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "gold plated bronze",
+              "tipOpening": "160/0/m"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "1.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Plas",
+      "lastName": "Johnson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer USA",
+              "model": "merle johnston \"original\" model"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Merle",
+      "lastName": "Johnston"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "New Wonder Transitional"
+            }
+          ]
+        }
+      ],
+      "firstName": "Richie",
+      "lastName": "Kamuca"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            },
+            {
+              "make": "Hemke",
+              "strength": "3.5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jeff",
+      "lastName": "Kashiwa"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal"
+            },
+            {
+              "make": "otto link",
+              "material": "Hard Rubber",
+              "other": "custom with a larsen tone chamber."
+            }
+          ]
+        }
+      ],
+      "firstName": "Roland",
+      "lastName": "Kirk"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "material": "Hard Rubber"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Al",
+      "lastName": "Klink"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Rico Royal",
+              "model": "Metallite"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "zephyr"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eric",
+      "lastName": "Kloss"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ],
+          "mouthpieces": [
+            {
+              "make": "Vandoren",
+              "model": "A55"
+            },
+            { "make": "Vandoren", "model": "Jumbo Java" }
+          ]
+        }
+      ],
+      "firstName": "Lee",
+      "lastName": "Konitz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "material": "Hard Rubber",
+              "make": "couf",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "3"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "material": "Metal",
+              "make": "beechler",
+              "tipOpening": "7"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Plasticover",
+              "strength": "4"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "YAS-62",
+              "finish": "silver plated"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "Hard Rubber",
+              "make": "berg larsen",
+              "tipOpening": "90/2"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "year": "1963"
+            },
+            {
+              "make": "Yamaha",
+              "model": "YTS-62",
+              "finish": "silver plated"
+            }
+          ]
+        }
+      ],
+      "firstName": "Dave",
+      "lastName": "Koz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "12"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "1.5",
+              "make": "marca"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "super action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Steve",
+      "lastName": "Lacy"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "Hard Rubber",
+              "make": "lelandais",
+              "model": "streamline"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Dolnet"
+            }
+          ]
+        }
+      ],
+      "firstName": "Guy",
+      "lastName": "Lafittte"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "ria",
+              "tipOpening": "7"
+            }
+          ]
+        }
+      ],
+      "firstName": "Oliver",
+      "lastName": "Lake"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Harold",
+      "lastName": "Land"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Hard"
+            },
+            {
+              "make": "Hemke",
+              "strength": "5"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Hard"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Hard"
+            },
+            {
+              "make": "Hemke",
+              "strength": "5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ronnie",
+      "lastName": "Laws"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "saxophones": [
+            {
+              "make": "SML",
+              "model": "gold medal"
+            }
+          ]
+        }
+      ],
+      "firstName": "Carmen",
+      "lastName": "Leggio"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "master link",
+              "other": "refaced"
+            },
+            {
+              "make": "sugal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "guardala"
+            }
+          ],
+          "reeds": [
+            {
+              "material": "plastic",
+              "make": "bari"
+            }
+          ]
+        }
+      ],
+      "firstName": "Dave",
+      "lastName": "Liebman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Reso Chamber",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action",
+              "year": "1952",
+              "other": "long bell"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tim",
+      "lastName": "Lin"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "florida super tone master",
+              "other": "10"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder",
+              "finish": "gold plated"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charles",
+      "lastName": "Lloyd"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "30m connqueror"
+            }
+          ]
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Lodice"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "other": "refaced by charlie paris"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "finish": "black lacquer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jean Louis",
+      "lastName": "Chautemps"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "9*"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "francois louis",
+              "material": "ebony",
+              "tipOpening": "10*"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "3.52",
+              "make": "alexander superial",
+              "model": "dc"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Lovano"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "tipOpening": " "
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            },
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Hub",
+      "lastName": "Lytle"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Maini"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "8*"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Malach"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "material": "Metal",
+              "make": "Beechler",
+              "tipOpening": "8"
+            },
+            {
+              "make": "bari",
+              "material": "gold",
+              "tipOpening": "7"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "yss-62"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "material": "Metal",
+              "make": "beechler",
+              "tipOpening": "7"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "tipOpening": "110/2"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eric",
+      "lastName": "Marienthal"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "guardala",
+              "model": "branford marsalis"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "guardala"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "guardala",
+              "finish": "black nickel"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "bari"
+            }
+          ]
+        }
+      ],
+      "firstName": "Branford",
+      "lastName": "Marsalis"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "material": "Hard Rubber",
+              "tipOpening": "3"
+            }
+          ]
+        }
+      ],
+      "firstName": "Warne",
+      "lastName": "Marsh"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone edge early babbitt",
+              "tipOpening": "8"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sam",
+      "lastName": "Mayne"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Hard Rubber"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "bari"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jackie",
+      "lastName": "McLean"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "tipOpening": "5"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "arbex",
+              "tipOpening": "7*"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charles",
+      "lastName": "McPherson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "tipOpening": "6"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "other": "\"v \"cut"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eddie",
+      "lastName": "Miller"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "model": "ld",
+              "tipOpening": "7"
+            },
+            {
+              "make": "Gregory",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            },
+            {
+              "make": "rkm"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "82xxx"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "tipOpening": "95/0"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Mintzer"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Hank",
+      "lastName": "Mobley"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "model": "Trump New York toots mondello special"
+            }
+          ]
+        }
+      ],
+      "firstName": "Toots",
+      "lastName": "Mondello"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brendan tibbs"
+            },
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "10*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R",
+              "finish": "black gold"
+            }
+          ]
+        }
+      ],
+      "firstName": "James",
+      "lastName": "Moody"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "personaline",
+              "tipOpening": "l6"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10m",
+              "serial": "285111",
+              "year": "1939"
+            }
+          ]
+        }
+      ],
+      "firstName": "Brew",
+      "lastName": "Moore"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "s80"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 Series II"
+            }
+          ]
+        }
+      ],
+      "firstName": "Frank",
+      "lastName": "Morgan"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Gregory",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            },
+            {
+              "make": "rkm"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Lanny",
+      "lastName": "Morgan"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Baritone",
+          "mouthpieces": [
+            {
+              "make": "gale",
+              "model": "hollywood",
+              "tipOpening": "5m"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "finish": "gold plated",
+              "serial": "189,xxx"
+            },
+            {
+              "make": "Conn",
+              "finish": "silver-plated",
+              "serial": "226,xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Gerry",
+      "lastName": "Mulligan"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "master link \"vido musso \""
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ]
+        }
+      ],
+      "firstName": "Vido",
+      "lastName": "Musso"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "material": "Hard Rubber",
+              "tipOpening": "5*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tommy",
+      "lastName": "Newsom"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "tipOpening": "10*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sal",
+      "lastName": "Nistico"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "wolf tayne",
+              "tipOpening": "7"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "tipOpening": "90/2"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "8"
+            }
+          ]
+        }
+      ],
+      "firstName": "Dick",
+      "lastName": "Oatts"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Vandoren",
+              "model": "a45 classique"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yanagisawa",
+              "material": "(silver body, brass keys)"
+            }
+          ]
+        }
+      ],
+      "firstName": "Greg",
+      "lastName": "Osby"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "Ebolin"
+            }
+          ]
+        }
+      ],
+      "firstName": "Maceo",
+      "lastName": "Parker"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "Ebolin"
+            },
+            {
+              "make": "brilhart",
+              "model": "tonalin",
+              "tipOpening": "5"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King",
+              "model": "Super 20"
+            },
+            {
+              "material": "plastic",
+              "make": "grafton"
+            },
+            {
+              "make": "Conn",
+              "model": "6m"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Parker"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "eburnated bar"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10m"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tony",
+      "lastName": "Pastor"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            },
+            {
+              "make": "otto link",
+              "model": "tone master"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bill",
+      "lastName": "Perkins"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "other": "refaced by nicolas trefeil"
+            },
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            },
+            {
+              "make": "otto link",
+              "other": "eburnated bar"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Martin",
+              "model": "committee"
+            }
+          ]
+        }
+      ],
+      "firstName": "Renaud",
+      "lastName": "Perrais"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "other": "short shank refaced and modified chamber",
+              "tipOpening": "7*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Rich",
+      "lastName": "Perry"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "finish": "gold plated ",
+              "other": "(long bell)"
+            }
+          ]
+        }
+      ],
+      "firstName": "Flip",
+      "lastName": "Phillips"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "tipOpening": "130 / 0 sms"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ]
+        }
+      ],
+      "firstName": "Lenny",
+      "lastName": "Pickett"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "air flow",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10m",
+              "year": "1947"
+            },
+            {
+              "make": "King",
+              "model": "Super 20"
+            }
+          ]
+        }
+      ],
+      "firstName": "Renaud",
+      "lastName": "Pion"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "other": "small chamber"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "6m"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bobby",
+      "lastName": "Platter"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master double ring",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "2h",
+              "other": "filed"
+            },
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "3m",
+              "other": "filed"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            },
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action",
+              "serial": "34128"
+            },
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Chris",
+      "lastName": "Potter"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Saxello",
+          "mouthpieces": [
+            {
+              "material": "wood",
+              "make": "lamberson"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "King"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "material": "wood",
+              "make": "lamberson",
+              "tipOpening": "6m"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "alexander"
+            },
+            {
+              "strength": "3.5",
+              "make": "marca"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Action 80 series iii"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "material": "wood",
+              "make": "lamberson",
+              "tipOpening": "6"
+            },
+            {
+              "material": "wood",
+              "make": "lamberson",
+              "tipOpening": "6dd"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3S",
+              "model": "jazz select"
+            },
+            {
+              "make": "Vandoren",
+              "strength": "3"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "finish": "gold plated"
+            },
+            {
+              "make": "Keilwerth",
+              "other": "straight"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "wood",
+              "tipOpening": "l7",
+              "make": "lamberson"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "3"
+            },
+            {
+              "make": "Vandoren",
+              "strength": "3",
+              "model": "v16"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        },
+        {
+          "voice": "Baritone",
+          "mouthpieces": [
+            {
+              "make": "lamberson",
+              "material": "Hard Rubber",
+              "tipOpening": " 7dd"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5",
+              "model": "jazz select"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "other": "(low bb)"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tim",
+      "lastName": "Price"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "material": "Metal",
+              "year": "1940",
+              "tipOpening": "8"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            },
+            {
+              "make": "Conn"
+            },
+            {
+              "make": "Buescher"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ike",
+      "lastName": "Quebec"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "tonalin"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Quinichette"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "material": "Silverite",
+              "tipOpening": "d9"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Boots",
+      "lastName": "Randolph"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "couf",
+              "tipOpening": "8*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "2.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "yss-62"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "arb",
+              "tipOpening": "6*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "2.5",
+              "other": "java"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "yas-62"
+            }
+          ]
+        }
+      ],
+      "firstName": "Nelson",
+      "lastName": "Rangell"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "8*"
+            },
+            {
+              "tipOpening": "9*"
+            },
+            {
+              "other": "florida super power chamber",
+              "tipOpening": "7,"
+            },
+            {
+              "make": "otto link",
+              "material": "Hard Rubber",
+              "model": "florida",
+              "tipOpening": "7*"
+            }
+          ],
+          "reeds": [
+            {
+              "model": "java"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action",
+              "other": "relacquered",
+              "serial": "48,xxx"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "material": "Hard Rubber",
+              "tipOpening": "g"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Joshua",
+      "lastName": "Redman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "model": "england"
+            }
+          ]
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Rendell"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "master link"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "chiron",
+              "model": "vibrator"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Jerome",
+      "lastName": "Richardson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "stainless steel"
+            }
+          ]
+        }
+      ],
+      "firstName": "Boomie",
+      "lastName": "Richman"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Arthur",
+      "lastName": "Rollini"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "wolfe tayne"
+            },
+            {
+              "material": "Metal",
+              "make": "guy hawkins"
+            },
+            {
+              "make": "Berg Larsen",
+              "material": "Hard Rubber",
+              "model": "otto lik"
+            },
+            {
+              "model": "super tone master double ring ny"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            },
+            {
+              "make": "Hemke",
+              "strength": "2"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "14x,xxx"
+            },
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sonny",
+      "lastName": "Rollins"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "improved tone master"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "other": "short bell"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Rouse"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "Hard Rubber"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn"
+            }
+          ]
+        }
+      ],
+      "firstName": "Babe",
+      "lastName": "Russin"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "tipOpening": "d9"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Cannonball"
+            }
+          ]
+        }
+      ],
+      "firstName": "Marc",
+      "lastName": "Russo"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "model": "david sanborn"
+            },
+            {
+              "make": "dukoff",
+              "model": "D7",
+              "other": "super power chamber"
+            },
+            {
+              "make": "dukoff",
+              "model": "D8",
+              "other": "super power chamber"
+            },
+            {
+              "make": "dukoff",
+              "model": "D9",
+              "other": "super power chamber"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "Medium",
+              "make": "la voz"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "David",
+      "lastName": "Sanborn"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "7"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "David",
+      "lastName": "Sanchez"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Reso Chamber",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Adrien",
+      "lastName": "Sanchez"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "material": "Metal"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "material": "Metal"
+            }
+          ]
+        }
+      ],
+      "firstName": "Pharoh",
+      "lastName": "Sanders"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "tipOpening": "7*",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Carl",
+      "lastName": "Schlosser"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "tipOpening": "5*"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ronnie",
+      "lastName": "Scott"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "guardala"
+            },
+            {
+              "make": "strathon 8"
+            },
+            {
+              "make": "strathon 9"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "guardala"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "guardala",
+              "model": "bn"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tom",
+      "lastName": "Scott"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "saxophones": [
+            {
+              "make": "Buescher",
+              "model": "400"
+            }
+          ]
+        }
+      ],
+      "firstName": "Big Al",
+      "lastName": "Sears"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "florida usa super tone master",
+              "tipOpening": "9*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Marti",
+      "lastName": "Serra"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "2"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bud",
+      "lastName": "Shank"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "bari"
+            }
+          ]
+        }
+      ],
+      "firstName": "Andy",
+      "lastName": "Sheppard"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master double ring",
+              "tipOpening": "7"
+            },
+            {
+              "material": "Hard Rubber",
+              "other": "10"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Hard Rubber",
+              "tipOpening": "10"
+            }
+          ]
+        }
+      ],
+      "firstName": "Wayne",
+      "lastName": "Shorter"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "brilhart",
+              "material": "Hard Rubber",
+              "tipOpening": "4"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "radio improved"
+            }
+          ]
+        }
+      ],
+      "firstName": "Zoot",
+      "lastName": "Sims"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R",
+              "other": "bg"
+            }
+          ]
+        }
+      ],
+      "firstName": "Mike",
+      "lastName": "Smith"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "material": "solid silver",
+              "tipOpening": "8",
+              "model": "hollywood",
+              "make": "phil barone"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "2.5",
+              "model": "jazz select"
+            },
+            {
+              "strength": "Medium",
+              "make": "la voz"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "86,xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Eric",
+      "lastName": "Spaulding"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Hard Rubber"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "very Soft"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Buescher",
+              "model": "aristocrat"
+            }
+          ]
+        }
+      ],
+      "firstName": "Vernon",
+      "lastName": "Story"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "saxophones": [
+            {
+              "make": "Buescher"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charles",
+      "lastName": "Strickfaden"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "3.5",
+              "make": "queen"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "model h"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "phil barone",
+              "model": "custom"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "2.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "John",
+      "lastName": "Stubblefield"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "4"
+            }
+          ]
+        }
+      ],
+      "firstName": "Lew",
+      "lastName": "Tabackin"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "tone master",
+              "tipOpening": "5*"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "otto link",
+              "strength": "2",
+              "model": "vibracane"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "10M"
+            }
+          ]
+        }
+      ],
+      "firstName": "Buddy",
+      "lastName": "Tate"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "super tone master",
+              "other": "wt facing"
+            },
+            {
+              "make": "otto link",
+              "model": "tone edge",
+              "other": "wt facing"
+            }
+          ]
+        }
+      ],
+      "firstName": "Wolfe",
+      "lastName": "Tayne"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn"
+            }
+          ]
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Thomas"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "master link"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "other": "(short bell)"
+            }
+          ]
+        }
+      ],
+      "firstName": "Lucky",
+      "lastName": "Thompson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "florida super tone master",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Georges",
+      "lastName": "Torsiello"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "bg"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "New York tone master",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Hemke",
+              "strength": "3"
+            },
+            {
+              "make": "Hemke",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "finish": "black lacquer",
+              "model": "super action 80"
+            }
+          ]
+        }
+      ],
+      "firstName": "Stanley",
+      "lastName": "Turrentine"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "tipOpening": "8"
+            }
+          ]
+        }
+      ],
+      "firstName": "Chris",
+      "lastName": "Vadala"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "model": "hollywood charlie ventura special "
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Balanced Action",
+              "other": "(short bell, tea kettle neck)"
+            }
+          ]
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Ventura"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "model": "Soloist",
+              "other": "short shank refaced by nicolas trefeil"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Fabien",
+      "lastName": "Vergez"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "florida usa super tone master",
+              "tipOpening": "9*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer"
+            }
+          ]
+        }
+      ],
+      "firstName": "Andre",
+      "lastName": "Villéger"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "florida super tone master",
+              "tipOpening": "7*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "other": "relaquered",
+              "serial": "2xx,xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Tim",
+      "lastName": "Warfield"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Runyon",
+              "material": "Hard Rubber",
+              "tipOpening": "8"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "5",
+              "model": "royal"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "model": "New York",
+              "material": "Hard Rubber",
+              "tipOpening": "7m"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "5",
+              "model": "royal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R",
+              "finish": "black nickel"
+            }
+          ]
+        },
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Hard Rubber",
+              "tipOpening": "130/0"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "5",
+              "model": "royal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "couf",
+              "finish": "gold plated"
+            }
+          ]
+        }
+      ],
+      "firstName": "Grover",
+      "lastName": "Washington"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "tipOpening": "5"
+            }
+          ]
+        }
+      ],
+      "firstName": "Sadao",
+      "lastName": "Watanabe"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "Vandoren",
+              "model": "v5"
+            },
+            {
+              "make": "Vandoren",
+              "model": "a35"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "custom"
+            }
+          ]
+        }
+      ],
+      "firstName": "Bobby",
+      "lastName": "Watson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "material": "Metal",
+              "model": "florida",
+              "tipOpening": "10* (.160)",
+              "other": "(modified by phil barone)"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Fibracane",
+              "strength": "Soft"
+            },
+            {
+              "make": "bari"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R",
+              "other": "bg"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Runyon",
+              "tipOpening": "9"
+            }
+          ]
+        },
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Lawton",
+              "tipOpening": "9*"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ernie",
+      "lastName": "Watts"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "tipOpening": "5"
+            },
+            {
+              "model": "master link"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "3.5"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            },
+            {
+              "make": "Selmer",
+              "model": "Balanced Action"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ben",
+      "lastName": "Webster"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Reso Chamber",
+              "other": "refaced by nicolas trefeil"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "model": "Jazz Select",
+              "strength": "3m",
+              "other": "filed"
+            },
+            {
+              "make": "Rigotti",
+              "model": "gold jazz",
+              "strength": "3 light"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Super Balanced Action",
+              "year": "1952",
+              "other": "long bell"
+            }
+          ]
+        }
+      ],
+      "firstName": "Ben",
+      "lastName": "Wendel"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "guardala",
+              "material": "silver",
+              "model": "michael brecker"
+            }
+          ],
+          "reeds": [
+            {
+              "strength": "4",
+              "make": "guardala"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Keilwerth",
+              "model": "SX90R",
+              "finish": "black nickel"
+            }
+          ]
+        },
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "dukoff",
+              "tipOpening": "8*"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Yamaha",
+              "model": "yss-875"
+            }
+          ]
+        }
+      ],
+      "firstName": "Kirk",
+      "lastName": "Whalum"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "Berg Larsen",
+              "material": "Metal"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Dolnet"
+            }
+          ]
+        }
+      ],
+      "firstName": "Barney",
+      "lastName": "Wilen"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "model": "new wonder"
+            }
+          ]
+        }
+      ],
+      "firstName": "Elmer",
+      "lastName": "Williams"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpieces": [
+            {
+              "make": "Selmer",
+              "tipOpening": "d"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Vandoren",
+              "strength": "4"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI"
+            }
+          ]
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Winter"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "mouthpieces": [
+            {
+              "make": "Meyer",
+              "model": "New York",
+              "tipOpening": "5"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "La Voz",
+              "strength": "Medium"
+            },
+            {
+              "model": "v16"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Selmer",
+              "model": "Mark VI",
+              "serial": "82,xxx"
+            }
+          ]
+        }
+      ],
+      "firstName": "Phil",
+      "lastName": "Woods"
+    },
+    {
+      "setups": [
+        {
+          "mouthpieces": [
+            {
+              "make": "otto link",
+              "model": "Four Star",
+              "tipOpening": "5",
+              "other": "custom by lester young"
+            }
+          ],
+          "reeds": [
+            {
+              "make": "Rico",
+              "strength": "2.5"
+            },
+            {
+              "strength": "3",
+              "make": "chiron",
+              "model": "vibrator"
+            }
+          ],
+          "saxophones": [
+            {
+              "make": "Conn",
+              "finish":"gold plated",
+              "model": "new wonder",
+              "serial":"144444"
+            }
+          ]
+        }
+      ],
+      "firstName": "Lester",
+      "lastName": "Young"
+    }
+  ]
+}

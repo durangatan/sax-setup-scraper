@@ -1,16 +1,16 @@
-import { getCleanData, addToPlayerIfExists } from '../../scraper/utils';
+import { getCleanData, addToPlayerIfExists } from "../../scraper/utils";
 
 export default function scrapeFunction(jsDoc) {
-  const playerLis = jsDoc.getElementsByTagName('li');
+  const playerLis = jsDoc.getElementsByTagName("li");
   const playerSetups = [];
   Array.from(playerLis).forEach(player => {
     const cleanPlayer = getCleanData(player);
-    const separator = cleanPlayer.includes('-') ? '-' : ':';
+    const separator = cleanPlayer.includes("-") ? "-" : ":";
     const [name, gear] = cleanPlayer.split(separator);
-    if (separator === '-') {
+    if (separator === "-") {
       const [saxophone, mouthpiece, reeds] = gear
         .split(/,[^x]/)
-        .filter(gearEntry => gearEntry !== '?')
+        .filter(gearEntry => gearEntry !== "?")
         .map(gearEntry => gearEntry.trim());
       addToPlayerIfExists(name.trim(), { saxophone, mouthpiece, reeds }, playerSetups);
     } else {
@@ -19,7 +19,6 @@ export default function scrapeFunction(jsDoc) {
     }
   });
   return {
-    allPropertyNames: ['saxophone', 'mouthpiece', 'reeds'],
     players: playerSetups
   };
 }

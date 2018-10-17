@@ -1,13 +1,13 @@
-import striptags from 'striptags';
+import striptags from "striptags";
 export default function scrapeFunction(jsDom) {
-  const [names] = jsDom.getElementsByTagName('div');
+  const [names] = jsDom.getElementsByTagName("div");
   const cleanNames = striptags(names.innerHTML)
     .trim()
     .split(/\n/)
     .filter(val => val.length);
   const playerIndicies = [];
   cleanNames.forEach((rowValue, index) => {
-    if (rowValue === 'Instrument Mouthpiece Reed') {
+    if (rowValue === "Instrument Mouthpiece Reed") {
       playerIndicies.push(index - 1);
     }
   });
@@ -21,12 +21,11 @@ export default function scrapeFunction(jsDom) {
       currentPlayer = { name: rowValue, setups: [] };
       return;
     }
-    if (rowValue !== 'Instrument Mouthpiece Reed' && rowValue.length > 2) {
+    if (rowValue !== "Instrument Mouthpiece Reed" && rowValue.length > 2) {
       currentPlayer.setups.push({ misc: rowValue });
     }
   });
   return {
-    players,
-    allPropertyNames: ['misc']
+    players
   };
 }

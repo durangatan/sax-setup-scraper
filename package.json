@@ -12,8 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-env": "^1.7.0",
+    "googleapis": "^34.0.0",
     "isomorphic-fetch": "^2.2.1",
     "jsdom": "^12.2.0",
+    "lodash.flattendeep": "^4.4.0",
     "lodash.uniq": "^4.5.0",
     "striptags": "^3.1.1",
     "yargs": "^12.0.2"

@@ -1,9 +1,9 @@
-import { getCleanData } from '../../scraper/utils';
+import { getCleanData } from "../../scraper/utils";
 
-const noDoubleSpaces = text => text.replace(/  /g, ' ');
+const noDoubleSpaces = text => text.replace(/  /g, " ");
 
 export default function scrapeFunction(jsDom) {
-  const [siteTitle, headerRow, ...playerRows] = jsDom.getElementsByTagName('tr');
+  const [siteTitle, headerRow, ...playerRows] = jsDom.getElementsByTagName("tr");
   const [nameLabel, ...voices] = Array.from(headerRow.children).map(getCleanData);
   const playerSetups = playerRows.map(playerRow => {
     const setups = [];
@@ -13,7 +13,7 @@ export default function scrapeFunction(jsDom) {
       const voiceIndexes = [...voices];
       const cleanValue = getCleanData(setupCell);
       if (cleanValue && cleanValue.length) {
-        const [mouthpiece, reed] = cleanValue.split(',');
+        const [mouthpiece, reed] = cleanValue.split(",");
         setups.push({
           mouthpiece: mouthpiece && noDoubleSpaces(mouthpiece),
           reed: reed && noDoubleSpaces(reed),
@@ -28,7 +28,6 @@ export default function scrapeFunction(jsDom) {
     };
   });
   return {
-    players: playerSetups,
-    allPropertyNames: ['mouthpiece', 'reed', 'voice']
+    players: playerSetups
   };
 }

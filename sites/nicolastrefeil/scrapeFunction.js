@@ -1,9 +1,7 @@
-import uniq from 'lodash.uniq';
-import { getCleanData } from '../../scraper/utils';
+import { getCleanData } from "../../scraper/utils";
 
 export default function scrapeFunction(jsDoc) {
-  const allPropertyNames = [];
-  const tableClass = 'webs-table';
+  const tableClass = "webs-table";
   const tables = jsDoc.getElementsByClassName(tableClass);
   const players = Array.from(tables).map(table => {
     const [tHead, ...tRows] = table.children;
@@ -16,12 +14,11 @@ export default function scrapeFunction(jsDoc) {
       propNames
         .map(propName => {
           const cleanedPropName = getCleanData(propName).toLowerCase();
-          allPropertyNames.push(cleanedPropName);
           return cleanedPropName;
         })
         .forEach((propName, index) => {
           const cleanPropValue = getCleanData(setupRow.children[index + 1]);
-          if (cleanPropValue && cleanPropValue.length && cleanPropValue !== '.') {
+          if (cleanPropValue && cleanPropValue.length && cleanPropValue !== ".") {
             setupProps[propName.toLowerCase()] = cleanPropValue;
           }
         });
@@ -30,7 +27,6 @@ export default function scrapeFunction(jsDoc) {
     return player;
   });
   return {
-    allPropertyNames: uniq(allPropertyNames),
     players
   };
 }
