@@ -8,3 +8,12 @@ admin.initializeApp({
 });
 
 const db = admin.firestore();
+
+async function addTweetCount() {
+  const allPlayersSnapshot = await db.collection('players').get();
+  allPlayersSnapshot.docs.forEach(async doc => {
+    const data = doc.data();
+    updateDocument(db, 'players', doc.id, { hasImage: Boolean(data.images && data.images.length) });
+  });
+}
+addTweetCount();
